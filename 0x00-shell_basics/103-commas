@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -aXv --indicator-style=slash --format=commas
